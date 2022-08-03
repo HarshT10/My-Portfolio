@@ -382,6 +382,7 @@ textarea::placeholder {
     text-transform: uppercase;
     font-weight: 600;
     letter-spacing: 1px;
+    color: #000000;
 }
 
 /* FOOTER */
@@ -513,7 +514,7 @@ footer {
     }
 
     .image-wrapper {
-        height: 120px;
+        height: 150px;
     }
 
     .btn {
