@@ -2,7 +2,9 @@
 
 - This is my personal portoflio. I learned a lot of things while making this and also made it mobile responsive. 
 
+[Netlify](https://harshcodes.netlify.app/)
 
+![Badge](https://img.shields.io/badge/Netlify-Link-green)
 
 ---
 
