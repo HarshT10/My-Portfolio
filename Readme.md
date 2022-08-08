@@ -1,6 +1,6 @@
 # **My Portfolio**
 
-- This is my personal portoflio. I learned a lot of things while making this and also made it mobile responsive. 
+- This is my personal portfolio. I learned a lot of things while making this and also made it mobile responsive. 
 
 [Netlify](https://harshcodes.netlify.app/)
 
